@@ -18,4 +18,4 @@
 
 Clone the repository.
 
-`git clone git@github.com:`
+`git@github.com:Pashinis/hangman.git`

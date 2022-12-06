@@ -1,7 +1,7 @@
 import random
 from os import system
 import logging
-import logging
+
 
 
 # creating logging info file with data
